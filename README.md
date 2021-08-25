@@ -18,8 +18,13 @@ Personiumコミュニティのメンバとして活動中。主にPersoniumの�
 
 * [personium-core](https://github.com/personium/personium-core)  
   Open-Source PDS(Personal Data Store) Server.
-* [personium-core-dev](https://github.com/yoh1496/personium-core-dev)
+* [personium-core-dev](https://github.com/yoh1496/personium-core-dev)  
   Visual Studio Code .devcontainer for developing personium-core
+
+### Blogs (Japanese Only 😱)
+
+* [Qiita - yoh1496](https://qiita.com/yoh1496)
+* [Hatenablog - yoh1496](https://yoh1496.hatenablog.com/)
 
 
 <!--
