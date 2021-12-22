@@ -6,6 +6,10 @@ I love writing codes and making something useful. Feel free to ask and follow.
 
 Personiumコミュニティのメンバとして活動中。主にPersoniumのコアコンポーネントの開発を行っていますが、Personiumを利用したアプリ制作を支援するモノも作っていきたいと思っています。
 
+### Awards
+
+* "NEA OSS Special Contribution Award", 2021, 19th Northeast Asia OSS Promotion Forum. http://ossforum.jp/index.php/2021/12/02/neaospf-agenda/
+
 ### Skills
 
 * .NET Core
